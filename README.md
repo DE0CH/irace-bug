@@ -1,4 +1,4 @@
-# Reproduce bug
+# Steps to reproduce
 
 run `./start.sh`
 
